@@ -1,4 +1,4 @@
 # odin-recipes
 Odin HTML project
-This is a basic recipe website I am building as part of The Odin Project curriculum. 
-Once this project is completed I will have learned how to build a basic HTML website, add links and images, and format text. Eventually will add CSS styling once I begin that course. 
+This is a mock recipe website I am building as part of The Odin Project curriculum. 
+Once this project is completed I will have learned how to build a basic HTML website, add links and images, and format text. As I continue in my coursework I hope to add CSS styling and Javascript programming onto the mock website. 
