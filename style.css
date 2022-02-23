@@ -1,0 +1,45 @@
+* {
+    background-color: #f53783;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.main {
+    height: auto;
+    width: 500px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header, .subtext, .menu {
+    text-align: center;
+}
+
+.menu {
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.menuitem {
+    font-size: 12px;
+}
+
+.recipe {
+    height: auto;
+    width: 400px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.subheader {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.ingredients, .steps {
+    font-size: 14px;
+    line-height: 2.0;
+}
