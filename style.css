@@ -1,32 +1,45 @@
-* {
-    background-color: #f53783;
+* { 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
+    background-color: #f53783;
 }
 
-.main {
+.homeimg {
     height: auto;
     width: 500px;
     display:block;
     margin-left: auto;
     margin-right: auto;
+    background-color: #f53783;
 }
 
-.header, .subtext, .menu {
+.header, .subtext {
     text-align: center;
+    background-color: #f53783;
 }
 
-.menu {
+.menubox {
     font-size: 16px;
     font-weight: bold;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 5px;
+    border-style:double;
+    border-color: white;
+    padding: 10px;
+    background: mediumpurple;
+    text-align: center;
 
 }
 
 .menuitem {
     font-size: 12px;
+    text-align: center;
+    background: mediumpurple;
+    font-weight: normal;
 }
 
-.recipe {
+.recipeimg {
     height: auto;
     width: 400px;
     display:block;
@@ -34,12 +47,29 @@
     margin-right: auto; 
 }
 
+.recipebox {
+    font-size: 12px;
+    font-weight: normal;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 5px;
+    border-style:double;
+    border-color: white;
+    padding: 10px;
+    background: mediumpurple;
+    text-align: center;
+}
+
 .subheader {
     font-size: 18px;
     font-weight: bold;
+    background: mediumpurple;
 }
 
 .ingredients, .steps {
     font-size: 14px;
     line-height: 2.0;
+    text-align: left;
+    background: mediumpurple;
+    background-color: mediumpurple;
 }
